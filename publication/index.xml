@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Santiago Torres</title>
+    <link>https://zant1998.github.io/santiagotorres.github.io/publication/</link>
+      <atom:link href="https://zant1998.github.io/santiagotorres.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zant1998.github.io/santiagotorres.github.io/media/icon_hubbbae0062d97c9e1d5fe64f9e5f0ca1f_42006_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Historical Characterization of Colombian Political Parties: 1958-2022</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/politicalparties/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/politicalparties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colombia’s Electoral Results</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/dataelectoral/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/dataelectoral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oracle Local Polynomial Estimator</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/oraclerd/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/oraclerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing Bias in Politician Characteristic Regression Discontinuity Designs</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/biasrdcorrection/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/biasrdcorrection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Close Elections Regression Discontinuity Designs in Multi-seat Systems</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/multird/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/multird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitutions and Order: A Theory and Evidence from Colombia and the United States</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/rebellion/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/rebellion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pharmacokinetic Model for Multiple-Dose Dynamics and Long-Term Treatment Effectiveness</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/multidose/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/multidose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling crowd dynamics: An introduction to mean field games</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/thesis/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Conditional Iron Law of Oligarchy: Evidence from Colombia</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/conditionalilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/conditionalilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can early political inclusion experiences determine future turnout?</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/historyturnover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/historyturnover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of the Cost-Effectiveness Threshold of the Dominican Republic</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/costthreshold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/costthreshold/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

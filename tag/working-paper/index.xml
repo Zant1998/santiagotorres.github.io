@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Paper | Santiago Torres</title>
+    <link>https://zant1998.github.io/santiagotorres.github.io/tag/working-paper/</link>
+      <atom:link href="https://zant1998.github.io/santiagotorres.github.io/tag/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zant1998.github.io/santiagotorres.github.io/media/icon_hubbbae0062d97c9e1d5fe64f9e5f0ca1f_42006_512x512_fill_lanczos_center_3.png</url>
+      <title>Working Paper</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/tag/working-paper/</link>
+    </image>
+    
+    <item>
+      <title>The Oracle Local Polynomial Estimator</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/oraclerd/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/oraclerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing Bias in Politician Characteristic Regression Discontinuity Designs</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/biasrdcorrection/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/biasrdcorrection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Close Elections Regression Discontinuity Designs in Multi-seat Systems</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/multird/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/multird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitutions and Order: A Theory and Evidence from Colombia and the United States</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/rebellion/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/rebellion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pharmacokinetic Model for Multiple-Dose Dynamics and Long-Term Treatment Effectiveness</title>
+      <link>https://zant1998.github.io/santiagotorres.github.io/publication/multidose/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zant1998.github.io/santiagotorres.github.io/publication/multidose/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
